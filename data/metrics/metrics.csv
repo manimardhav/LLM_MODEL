@@ -1,0 +1,4 @@
+timestamp,model,latency,response_length
+1768817432.509015,chatgpt,2.361,160
+1768817434.0733309,llama,3.924,1347
+1768817437.509053,gemini,7.36,390
